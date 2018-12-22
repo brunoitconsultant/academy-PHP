@@ -1,0 +1,31 @@
+Course Goal:
+
+	- Understand what PHP is and why is such an important language to learn
+	- Use your favourite Text Editor to write PHP programs
+	- Understand the main coding techniques and used them effectively
+	- Develop your own dynamic web pages using PHP language
+
+Course Syllabus:
+
+	- Understand the history of PHP, where does it fit in the Web Development landscape and what are the benefits of learning it.
+	- Installing PHP, learning the basic confirmation and choosing the text editor.
+	- Language Fundamentals: 
+		. Writing HTML
+		. Variable
+		. Data Types
+		. Working with Strings and Numbers
+		. Getting User Input
+		. URL Parameters
+		. POST vs GET
+		. Arrays
+		. Functions
+		. If and Switch Statements
+		. While and For Loops
+		. Comments
+		. Including HTML
+		. Include: PHP
+	- Object Oriented (OO)
+		. Intro to Object Oriented Programming
+		. Properties, Methods and Functions
+		. Constructors: Getters and Setters
+		. Inheritance

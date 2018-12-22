@@ -1,0 +1,19 @@
+﻿https://www.cecwellington.ac.nz/courses/1424-php-programming-an-introduction
+ROOM: COM2B
+
+Course #1
+	Session 1: 	Wed, 22 May 	(19:30 – 21:30)
+	Session 2: 	Wed, 29 May 	(19:30 – 21:30)
+	Session 3: 	Wed, 05 Jun 	(19:30 – 21:30)
+	Session 4: 	Wed, 12 Jun 	(19:30 – 21:30)
+	Session 5: 	Wed, 19 Jun	(19:30 – 21:30)
+	Session 6: 	Wed, 26 Jun 	(19:30 – 21:30)
+-------------------------------------------------------
+Course #2
+	Session 1: 	Tue, 29 Oct 	(19:30 – 21:30)
+	Session 2: 	Tue, 05 Nov 	(19:30 – 21:30)
+	Session 3: 	Tue, 12 Nov 	(19:30 – 21:30)
+	Session 4: 	Tue, 19 Nov 	(19:30 – 21:30)
+	Session 5: 	Tue, 26 Nov 	(19:30 – 21:30)
+	Session 6: 	Tue, 03 Dec 	(19:30 – 21:30)
+-------------------------------------------------------
